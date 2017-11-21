@@ -1,0 +1,1 @@
+print('mister')print('magoo')
